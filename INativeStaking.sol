@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 /** @dev The contract's address. */
-address constant STAKING_ADDRESS = 0x0000000000000000000000000000000000000800;
+address constant STAKING_ADDRESS = 0x1493166fCef7D77Cde6B47Cae163F4Cc501C56cc;
 
 /** @dev The contract's instance. */
 NativeStaking constant STAKING_CONTRACT = NativeStaking(STAKING_ADDRESS);
